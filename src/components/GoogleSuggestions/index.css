@@ -1,0 +1,30 @@
+/* Write your CSS here */
+
+.main-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.google-img {
+  width: 300px;
+}
+
+.search-cont {
+  display: flex;
+  align-items: center;
+}
+
+.seach-icon {
+  width: 30px;
+}
+
+.search-container {
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
